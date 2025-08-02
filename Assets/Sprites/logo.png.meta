@@ -1,0 +1,2132 @@
+fileFormatVersion: 2
+guid: a339c66b60c142b40a4b90e8c7498d7f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -850045817335376473
+    second: Arcade Gamer_0
+  - first:
+      213: -2545006160505649760
+    second: Arcade Gamer_1
+  - first:
+      213: 6086535915106048358
+    second: Arcade Gamer_2
+  - first:
+      213: 8344068310917337625
+    second: Arcade Gamer_3
+  - first:
+      213: -5342437505785955198
+    second: Arcade Gamer_4
+  - first:
+      213: -1016627997464955861
+    second: Arcade Gamer_5
+  - first:
+      213: -4470291398383092992
+    second: Arcade Gamer_6
+  - first:
+      213: -388617688079538383
+    second: Arcade Gamer_7
+  - first:
+      213: -3571666567032300763
+    second: Arcade Gamer_8
+  - first:
+      213: -7994236881525469558
+    second: Arcade Gamer_9
+  - first:
+      213: -3021202836790409131
+    second: Arcade Gamer_10
+  - first:
+      213: 1400310814717497303
+    second: Arcade Gamer_11
+  - first:
+      213: -3599265617716554537
+    second: Arcade Gamer_12
+  - first:
+      213: -1273018035561536022
+    second: Arcade Gamer_13
+  - first:
+      213: 7932917941751231276
+    second: Arcade Gamer_14
+  - first:
+      213: 1138747452167758630
+    second: Arcade Gamer_15
+  - first:
+      213: 11025330588206879
+    second: Arcade Gamer_16
+  - first:
+      213: 7817876249917601545
+    second: Arcade Gamer_17
+  - first:
+      213: -3426049573334562645
+    second: Arcade Gamer_18
+  - first:
+      213: 3708881534009566774
+    second: Arcade Gamer_19
+  - first:
+      213: 6859792525210547370
+    second: Arcade Gamer_20
+  - first:
+      213: 8371180792135430775
+    second: Arcade Gamer_21
+  - first:
+      213: 8404864810579741368
+    second: Arcade Gamer_22
+  - first:
+      213: 5187056624899826023
+    second: Arcade Gamer_23
+  - first:
+      213: -3489076512598726448
+    second: Arcade Gamer_24
+  - first:
+      213: 5240526351644179144
+    second: Arcade Gamer_25
+  - first:
+      213: 1723796563635286360
+    second: Arcade Gamer_26
+  - first:
+      213: -1773096429797965945
+    second: Arcade Gamer_27
+  - first:
+      213: -7782064110322993661
+    second: Arcade Gamer_28
+  - first:
+      213: 3645105343068550874
+    second: Arcade Gamer_29
+  - first:
+      213: -5965970101034816073
+    second: Arcade Gamer_30
+  - first:
+      213: 9223288110074134518
+    second: Arcade Gamer_31
+  - first:
+      213: 2720923474482778860
+    second: Arcade Gamer_32
+  - first:
+      213: 3450900768699249552
+    second: Arcade Gamer_33
+  - first:
+      213: -4451815762188219498
+    second: Arcade Gamer_34
+  - first:
+      213: -8355957919800467362
+    second: Arcade Gamer_35
+  - first:
+      213: 492990750774175140
+    second: Arcade Gamer_36
+  - first:
+      213: -5469858427954633875
+    second: Arcade Gamer_37
+  - first:
+      213: 8369048755907463763
+    second: Arcade Gamer_38
+  - first:
+      213: 4411728673464722608
+    second: Arcade Gamer_39
+  - first:
+      213: 7768591484796710356
+    second: Arcade Gamer_40
+  - first:
+      213: 3242284480755406314
+    second: Arcade Gamer_41
+  - first:
+      213: -5819812361148500007
+    second: Arcade Gamer_42
+  - first:
+      213: -1081743481468769782
+    second: Arcade Gamer_43
+  - first:
+      213: -6523974130591520868
+    second: Arcade Gamer_44
+  - first:
+      213: -3450496960748342491
+    second: Arcade Gamer_45
+  - first:
+      213: -8547740953373701880
+    second: Arcade Gamer_46
+  - first:
+      213: 1029119469936223079
+    second: Arcade Gamer_47
+  - first:
+      213: 7344841009970975110
+    second: Arcade Gamer_48
+  - first:
+      213: 3990672813533390074
+    second: Arcade Gamer_49
+  - first:
+      213: 5347644224104865432
+    second: Arcade Gamer_50
+  - first:
+      213: -101594652378002329
+    second: Arcade Gamer_51
+  - first:
+      213: -8509894705455133859
+    second: Arcade Gamer_52
+  - first:
+      213: -4183049266595198787
+    second: Arcade Gamer_53
+  - first:
+      213: 2119075352861576980
+    second: Arcade Gamer_54
+  - first:
+      213: 6957759924954136663
+    second: Arcade Gamer_55
+  - first:
+      213: 5522565647709479312
+    second: Arcade Gamer_56
+  - first:
+      213: -935252485198651721
+    second: Arcade Gamer_57
+  - first:
+      213: 2816180197284339224
+    second: Arcade Gamer_58
+  - first:
+      213: -4973793815943168867
+    second: Arcade Gamer_59
+  - first:
+      213: -133071762863482039
+    second: Arcade Gamer_60
+  - first:
+      213: 337239327355880767
+    second: Arcade Gamer_61
+  - first:
+      213: -5374468314617074565
+    second: Arcade Gamer_62
+  - first:
+      213: 5417844361061092187
+    second: Arcade Gamer_63
+  - first:
+      213: 460093394419022322
+    second: Arcade Gamer_64
+  - first:
+      213: 532743089257773457
+    second: Arcade Gamer_65
+  - first:
+      213: -6138001020160449309
+    second: Arcade Gamer_66
+  - first:
+      213: 3219953225433044762
+    second: Arcade Gamer_67
+  - first:
+      213: -3326032174797860782
+    second: Arcade Gamer_68
+  - first:
+      213: 7043340484619241704
+    second: Arcade Gamer_69
+  - first:
+      213: 7527085097343912768
+    second: Arcade Gamer_70
+  - first:
+      213: 2732895277666134551
+    second: Arcade Gamer_71
+  - first:
+      213: -991048987766008463
+    second: Arcade Gamer_72
+  - first:
+      213: 1298571791832201294
+    second: Arcade Gamer_73
+  - first:
+      213: 3050171415720406114
+    second: Arcade Gamer_74
+  - first:
+      213: 5226355210006843393
+    second: Arcade Gamer_75
+  - first:
+      213: 8837092525391888571
+    second: Arcade Gamer_76
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Arcade Gamer_0
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 923
+        width: 107
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a51be635d70434f0800000000000000
+      internalID: -850045817335376473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade Gamer_1
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 922
+        width: 107
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a541eb81625eacd0800000000000000
+      internalID: -2545006160505649760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade Gamer_2
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 546
+        width: 642
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6699d8cba28b77450800000000000000
+      internalID: 6086535915106048358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade Gamer_3
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 922
+        width: 65
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91252d58be51cc370800000000000000
+      internalID: 8344068310917337625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade Gamer_4
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 546
+        width: 144
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28c77e8d469dbd5b0800000000000000
+      internalID: -5342437505785955198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade Gamer_5
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 544
+        width: 141
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b24726ef83634e1f0800000000000000
+      internalID: -1016627997464955861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade Gamer_6
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 295
+        width: 156
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00b34e468a556f1c0800000000000000
+      internalID: -4470291398383092992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade Gamer_7
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 298
+        width: 161
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 137e59c854a5b9af0800000000000000
+      internalID: -388617688079538383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade Gamer_8
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 298
+        width: 192
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52b96e74e24ee6ec0800000000000000
+      internalID: -3571666567032300763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade Gamer_9
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 298
+        width: 158
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8e095a59e3ce0190800000000000000
+      internalID: -7994236881525469558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade Gamer_10
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 295
+        width: 153
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55884b6e6088216d0800000000000000
+      internalID: -3021202836790409131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade Gamer_11
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 80
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dfcf5e4447ee6310800000000000000
+      internalID: 1400310814717497303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade Gamer_12
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 79
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d45abb8df6dc0ec0800000000000000
+      internalID: -3599265617716554537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade Gamer_13
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 80
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae560b567d4555ee0800000000000000
+      internalID: -1273018035561536022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade Gamer_14
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 79
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c23b76e66d2671e60800000000000000
+      internalID: 7932917941751231276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade Gamer_15
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 80
+        width: 6
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 623275f36c4adcf00800000000000000
+      internalID: 1138747452167758630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade Gamer_16
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 79
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f17cd31da7b272000800000000000000
+      internalID: 11025330588206879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade Gamer_17
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 74
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9073d46470dae7c60800000000000000
+      internalID: 7817876249917601545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade Gamer_18
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 79
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba8c386a01a3470d0800000000000000
+      internalID: -3426049573334562645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade Gamer_19
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 79
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63665acca18987330800000000000000
+      internalID: 3708881534009566774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade Gamer_20
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 79
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa4fd0af4f0e23f50800000000000000
+      internalID: 6859792525210547370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade Gamer_21
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 74
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7723ec9f3986c2470800000000000000
+      internalID: 8371180792135430775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade Gamer_22
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 80
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ba49cba30414a470800000000000000
+      internalID: 8404864810579741368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade Gamer_23
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 80
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 761adf4a4802cf740800000000000000
+      internalID: 5187056624899826023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade Gamer_24
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 80
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d8e460d56f449fc0800000000000000
+      internalID: -3489076512598726448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade Gamer_25
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 96
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ca33d983f61ab840800000000000000
+      internalID: 5240526351644179144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade Gamer_26
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 80
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 851358077d72ce710800000000000000
+      internalID: 1723796563635286360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade Gamer_27
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 79
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78ff06df032b467e0800000000000000
+      internalID: -1773096429797965945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade Gamer_28
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 80
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 306b1ec3ced800490800000000000000
+      internalID: -7782064110322993661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade Gamer_29
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 79
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad6ba763ff3069230800000000000000
+      internalID: 3645105343068550874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade Gamer_30
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 79
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bde73b5dcd943da0800000000000000
+      internalID: -5965970101034816073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade Gamer_31
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 89
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ff7d064ba3bfff70800000000000000
+      internalID: 9223288110074134518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade Gamer_32
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 80
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce25195eb79a2c520800000000000000
+      internalID: 2720923474482778860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade Gamer_33
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 79
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 093f07927ff04ef20800000000000000
+      internalID: 3450900768699249552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade Gamer_34
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 79
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b4949a629f732c0800000000000000
+      internalID: -4451815762188219498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade Gamer_35
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 79
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e506e203b8ca90c80800000000000000
+      internalID: -8355957919800467362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade Gamer_36
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 80
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a5a271d97477d600800000000000000
+      internalID: 492990750774175140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade Gamer_37
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 79
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6366168db82714b0800000000000000
+      internalID: -5469858427954633875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade Gamer_38
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 80
+        width: 6
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35a0acb9085d42470800000000000000
+      internalID: 8369048755907463763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade Gamer_39
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 79
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b4254baadb993d30800000000000000
+      internalID: 4411728673464722608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade Gamer_40
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 79
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ddae60bbc49fcb60800000000000000
+      internalID: 7768591484796710356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade Gamer_41
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 79
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae510309e88eefc20800000000000000
+      internalID: 3242284480755406314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade Gamer_42
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 79
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d7f0520e7fdb3fa0800000000000000
+      internalID: -5819812361148500007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade Gamer_43
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 79
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0aa5f0f800ecf0f0800000000000000
+      internalID: -1081743481468769782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade Gamer_44
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 79
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c97214ef7103675a0800000000000000
+      internalID: -6523974130591520868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade Gamer_45
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 79
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 523b704bb4f5d10d0800000000000000
+      internalID: -3450496960748342491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade Gamer_46
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 10
+        width: 258
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8090a1a04e2506980800000000000000
+      internalID: -8547740953373701880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade Gamer_47
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 80
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 763acf494ba284e00800000000000000
+      internalID: 1029119469936223079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade Gamer_48
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 43
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6819a03ebfd1ee560800000000000000
+      internalID: 7344841009970975110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade Gamer_49
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 43
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af46779c7c7b16730800000000000000
+      internalID: 3990672813533390074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade Gamer_50
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 42
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89e90fab616a63a40800000000000000
+      internalID: 5347644224104865432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade Gamer_51
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 42
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76c0ee1b330179ef0800000000000000
+      internalID: -101594652378002329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade Gamer_52
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 43
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5b8e5d4ad7c6e980800000000000000
+      internalID: -8509894705455133859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade Gamer_53
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 43
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db882a2dad2d2f5c0800000000000000
+      internalID: -4183049266595198787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade Gamer_54
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 43
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41f899b5ec7786d10800000000000000
+      internalID: 2119075352861576980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade Gamer_55
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 42
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7500757b9cdee8060800000000000000
+      internalID: 6957759924954136663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade Gamer_56
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 43
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 091af70623814ac40800000000000000
+      internalID: 5522565647709479312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade Gamer_57
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 42
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bede64e1d05503f0800000000000000
+      internalID: -935252485198651721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade Gamer_58
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 43
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81e5f9af7f4151720800000000000000
+      internalID: 2816180197284339224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade Gamer_59
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 42
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9c3cae60e889fab0800000000000000
+      internalID: -4973793815943168867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade Gamer_60
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 42
+        width: 17
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94b13eccfeb372ef0800000000000000
+      internalID: -133071762863482039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade Gamer_61
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 59
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f35c657a16d1ea400800000000000000
+      internalID: 337239327355880767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade Gamer_62
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 43
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7c28a20b8d0a65b0800000000000000
+      internalID: -5374468314617074565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade Gamer_63
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 42
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5b466dcdbc003b40800000000000000
+      internalID: 5417844361061092187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade Gamer_64
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 43
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f979d92184926600800000000000000
+      internalID: 460093394419022322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade Gamer_65
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 43
+        width: 6
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 199f0cf540fa46700800000000000000
+      internalID: 532743089257773457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade Gamer_66
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 42
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e4e95ab79071daa0800000000000000
+      internalID: -6138001020160449309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade Gamer_67
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 43
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a175f4306629fac20800000000000000
+      internalID: 3219953225433044762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade Gamer_68
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 52
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25057adeb5f87d1d0800000000000000
+      internalID: -3326032174797860782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade Gamer_69
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 42
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e88bd18ad8feb160800000000000000
+      internalID: 7043340484619241704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade Gamer_70
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 42
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04b025d0404957860800000000000000
+      internalID: 7527085097343912768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade Gamer_71
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 42
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71ae1a986c13de520800000000000000
+      internalID: 2732895277666134551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade Gamer_72
+      rect:
+        serializedVersion: 2
+        x: 1143
+        y: 43
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 175523942361f32f0800000000000000
+      internalID: -991048987766008463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade Gamer_73
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 43
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e48308f1a24750210800000000000000
+      internalID: 1298571791832201294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade Gamer_74
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 42
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26ca01afdb2645a20800000000000000
+      internalID: 3050171415720406114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade Gamer_75
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 48
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10058728f5eb78840800000000000000
+      internalID: 5226355210006843393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade Gamer_76
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 43
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb04e37b4d8a3aa70800000000000000
+      internalID: 8837092525391888571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Arcade Gamer_0: -850045817335376473
+      Arcade Gamer_1: -2545006160505649760
+      Arcade Gamer_10: -3021202836790409131
+      Arcade Gamer_11: 1400310814717497303
+      Arcade Gamer_12: -3599265617716554537
+      Arcade Gamer_13: -1273018035561536022
+      Arcade Gamer_14: 7932917941751231276
+      Arcade Gamer_15: 1138747452167758630
+      Arcade Gamer_16: 11025330588206879
+      Arcade Gamer_17: 7817876249917601545
+      Arcade Gamer_18: -3426049573334562645
+      Arcade Gamer_19: 3708881534009566774
+      Arcade Gamer_2: 6086535915106048358
+      Arcade Gamer_20: 6859792525210547370
+      Arcade Gamer_21: 8371180792135430775
+      Arcade Gamer_22: 8404864810579741368
+      Arcade Gamer_23: 5187056624899826023
+      Arcade Gamer_24: -3489076512598726448
+      Arcade Gamer_25: 5240526351644179144
+      Arcade Gamer_26: 1723796563635286360
+      Arcade Gamer_27: -1773096429797965945
+      Arcade Gamer_28: -7782064110322993661
+      Arcade Gamer_29: 3645105343068550874
+      Arcade Gamer_3: 8344068310917337625
+      Arcade Gamer_30: -5965970101034816073
+      Arcade Gamer_31: 9223288110074134518
+      Arcade Gamer_32: 2720923474482778860
+      Arcade Gamer_33: 3450900768699249552
+      Arcade Gamer_34: -4451815762188219498
+      Arcade Gamer_35: -8355957919800467362
+      Arcade Gamer_36: 492990750774175140
+      Arcade Gamer_37: -5469858427954633875
+      Arcade Gamer_38: 8369048755907463763
+      Arcade Gamer_39: 4411728673464722608
+      Arcade Gamer_4: -5342437505785955198
+      Arcade Gamer_40: 7768591484796710356
+      Arcade Gamer_41: 3242284480755406314
+      Arcade Gamer_42: -5819812361148500007
+      Arcade Gamer_43: -1081743481468769782
+      Arcade Gamer_44: -6523974130591520868
+      Arcade Gamer_45: -3450496960748342491
+      Arcade Gamer_46: -8547740953373701880
+      Arcade Gamer_47: 1029119469936223079
+      Arcade Gamer_48: 7344841009970975110
+      Arcade Gamer_49: 3990672813533390074
+      Arcade Gamer_5: -1016627997464955861
+      Arcade Gamer_50: 5347644224104865432
+      Arcade Gamer_51: -101594652378002329
+      Arcade Gamer_52: -8509894705455133859
+      Arcade Gamer_53: -4183049266595198787
+      Arcade Gamer_54: 2119075352861576980
+      Arcade Gamer_55: 6957759924954136663
+      Arcade Gamer_56: 5522565647709479312
+      Arcade Gamer_57: -935252485198651721
+      Arcade Gamer_58: 2816180197284339224
+      Arcade Gamer_59: -4973793815943168867
+      Arcade Gamer_6: -4470291398383092992
+      Arcade Gamer_60: -133071762863482039
+      Arcade Gamer_61: 337239327355880767
+      Arcade Gamer_62: -5374468314617074565
+      Arcade Gamer_63: 5417844361061092187
+      Arcade Gamer_64: 460093394419022322
+      Arcade Gamer_65: 532743089257773457
+      Arcade Gamer_66: -6138001020160449309
+      Arcade Gamer_67: 3219953225433044762
+      Arcade Gamer_68: -3326032174797860782
+      Arcade Gamer_69: 7043340484619241704
+      Arcade Gamer_7: -388617688079538383
+      Arcade Gamer_70: 7527085097343912768
+      Arcade Gamer_71: 2732895277666134551
+      Arcade Gamer_72: -991048987766008463
+      Arcade Gamer_73: 1298571791832201294
+      Arcade Gamer_74: 3050171415720406114
+      Arcade Gamer_75: 5226355210006843393
+      Arcade Gamer_76: 8837092525391888571
+      Arcade Gamer_8: -3571666567032300763
+      Arcade Gamer_9: -7994236881525469558
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
