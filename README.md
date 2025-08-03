@@ -19,7 +19,7 @@ Yavuz Sultan Selim'in  farklı skilleri var, ve mısıra yaklaştıkça düşman
 
 <img width="1513" height="848" alt="image" src="https://github.com/user-attachments/assets/d8b91012-10b2-4801-9fd9-32473e009ba7" />
 
-#**#Skiller**
+# **Skiller**
 
 **-Osmanlı Tokadı**
 
