@@ -30,7 +30,7 @@ Yavuz Sultan Selim'in  farklı skilleri var, ve mısıra yaklaştıkça düşman
 
 ![callHelp](https://github.com/user-attachments/assets/fb8e41e4-7c93-4f77-918f-177bdbcb9fed)
 
-**-Karakter Ölümü**
+**-Karakter Hasar Efekti**
 
 ![die](https://github.com/user-attachments/assets/d569d6b2-34fd-4733-804c-49cd9321e0b7)
 
