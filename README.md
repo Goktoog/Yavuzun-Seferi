@@ -1,9 +1,10 @@
 # **Yavuzun Seferi**
 -*TR*-
 
-Yavuzun Seferi, Osmanlı İmparatorluğunun ünlü padişahı Yavuz Sultan Selim'in Mısır'ı fethetmesini konu alan bir Aksison - Platformer mobil oyunudur. Yavuz Sultan Selim oalrak oynayın ve Mısır’a doğru zorlu bir yolculuğa çıkın. Oyuncu, Yavuz Sultan Selim karakteriyle düşmanları yok ederek ilerler.
+Yavuzun Seferi, Osmanlı İmparatorluğunun ünlü padişahı Yavuz Sultan Selim'in Mısır'ı fethetmesini konu alan bir Aksiyon - Platformer mobil oyunudur. Yavuz Sultan Selim olarak oynayın ve Mısır’a doğru zorlu bir yolculuğa çıkın. Oyuncu, Yavuz Sultan Selim karakteriyle düşmanları yok ederek ilerler.
 
-<img width="1920" height="844" alt="image" src="https://github.com/user-attachments/assets/e04197ea-f7d4-454c-bad9-62033ddd5b27" />
+<img width="1916" height="844" alt="image" src="https://github.com/user-attachments/assets/ebb9b129-6efa-413e-b99d-6ee3607d0090" />
+
 
 ![climbLadde](https://github.com/user-attachments/assets/5e312fc3-59e1-4dca-94d4-38c892b97a37)
 
@@ -49,9 +50,9 @@ https://github.com/user-attachments/assets/196d5ad2-4b15-4996-b46d-a102de90389d
 
 
 Oyun hakkında daha fazla bilgi edinmek ve denemek isterseniz, aşağıdaki linkten ulaşabilirsiniz :) 
-Ayrıca belirttiğim gibi oyun 10 günde tamamlandığı için birkaç hatası mevcut olabilir :')
+Ayrıca belirttiğim gibi oyun 10 günde tamamlandığı için bazı küçük hatalar olabilir, oynarken fark edebilirsiniz.
 
-https://goktugodemis.itch.io/
+[https://goktugodemis.itch.io/](https://goktugodemis.itch.io/yavuzun-seferi)
 
 -*EN*-
 
@@ -63,4 +64,4 @@ Yavuzun Seferi was completed in 10 days and optimized for mobile platforms.
 
 Go ahead and try the game from the link below :) 
 
-https://goktugodemis.itch.io/
+[https://goktugodemis.itch.io/](https://goktugodemis.itch.io/yavuzun-seferi)
