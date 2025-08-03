@@ -1,4 +1,4 @@
-# Yavuzun-Seferi
+# **Yavuzun Seferi**
 -*TR*-
 
 Yavuzun Seferi, Osmanlı İmparatorluğunun ünlü padişahı Yavuz Sultan Selim'in Mısır'ı fethetmesini konu alan bir Aksison - Platformer mobil oyunudur. Yavuz Sultan Selim oalrak oynayın ve Mısır’a doğru zorlu bir yolculuğa çıkın. Oyuncu, Yavuz Sultan Selim karakteriyle düşmanları yok ederek ilerler.
@@ -7,7 +7,7 @@ Yavuzun Seferi, Osmanlı İmparatorluğunun ünlü padişahı Yavuz Sultan Selim
 
 ![climbLadde](https://github.com/user-attachments/assets/5e312fc3-59e1-4dca-94d4-38c892b97a37)
 
-**Npc Diyalogları**
+# **Npc Diyalogları**
 
 ![firstClip](https://github.com/user-attachments/assets/3643556d-96c8-4595-b4ed-6064326ad714)
 
@@ -40,7 +40,7 @@ Oyun, minimap kullanarak oyuncunun ne kadar ilerlediğini ve Mısır'a ne kadar 
 
 Oyun, 10 günde tamamlanmış olup, mobil platformlar için optimize edilmiştir.
 
-**-Boss Fight**
+# **-Boss Fight**
 
 https://github.com/user-attachments/assets/b685b4f2-c770-4d83-80d9-6c20fce8896b
 
