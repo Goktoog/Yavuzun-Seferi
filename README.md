@@ -18,6 +18,7 @@ Yavuzun Seferi, Osmanlı İmparatorluğunun ünlü padişahı Yavuz Sultan Selim
 Yavuz Sultan Selim'in  farklı skilleri var, ve mısıra yaklaştıkça düşmanlar giderek daha zorlaşır ve oyuncunun becerilerini test eder.
 
 <img width="1513" height="848" alt="image" src="https://github.com/user-attachments/assets/d8b91012-10b2-4801-9fd9-32473e009ba7" />
+
 **-Osmanlı Tokadı**
 
 ![slap](https://github.com/user-attachments/assets/bf9052c5-55fb-4351-929c-6665887782fb)
