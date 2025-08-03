@@ -49,6 +49,7 @@ https://github.com/user-attachments/assets/196d5ad2-4b15-4996-b46d-a102de90389d
 
 
 Oyun hakkında daha fazla bilgi edinmek ve denemek isterseniz, aşağıdaki linkten ulaşabilirsiniz :) 
+Ayrıca belirttiğim gibi oyun 10 günde tamamlandığı için birkaç hatası mevcut olabilir :')
 
 https://goktugodemis.itch.io/
 
